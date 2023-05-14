@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: aliceblue;
+}
+.container {
+  max-width: 600px;
+  margin: 2rem auto;
+  background-color: rebeccapurple;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding: 1rem;
+}
+#editor {
+  height: 20rem;
+}
+img {
+  max-width: 100%;
+}
